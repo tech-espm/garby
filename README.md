@@ -7,6 +7,7 @@ This group has the purpose of developing a demonstration using artificial intell
 ### Head
 
 [Prof. Humberto Sandmann, PhD.](https://hsandmann.github.io/)
+<br><small>[humberto.sandmann@espm.br](mailto:humberto.sandmann@espm.br)</small>
 
 ### Technical Team
 
@@ -17,6 +18,5 @@ Silvio Silva
 Frederico Costa
 
 Maria Machado
-
 
 
