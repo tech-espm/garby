@@ -11,6 +11,8 @@ This group has the purpose of developing a demonstration using artificial intell
 
 ### Technical Team
 
+Gabriel Zsigmond
+
 Flavia Fontes
 
 Silvio Silva
