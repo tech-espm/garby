@@ -6,16 +6,9 @@ This group has the purpose of developing a demonstration using artificial intell
 
 ### Members
 
-[Prof. Humberto Sandmann, PhD.](https://hsandmann.github.io/) (Head)
+[Prof. Humberto Sandmann, PhD.](https://hsandmann.github.io/) (head)
 
 Gabriel Zsigmond
 
-Flavia Fontes
-
-Silvio Silva
-
-Frederico Costa
-
-Maria Machado
 
 
