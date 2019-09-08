@@ -6,9 +6,22 @@ This group has the purpose of developing a demonstration using artificial intell
 
 ### Members
 
-[Prof. Humberto Sandmann, PhD.](https://hsandmann.github.io/) (head)
+Prof. Humberto Sandmann, PhD. (head)
+<small>(
+[github](https://hsandmann.github.io/)
+)</small>
 
 Gabriel Zsigmond
+<small>(
+[github](https://github.com/gzsig)
+)</small>
+
+Lucas Ciola de Sá
+<small>(
+[github](https://github.com/Lucas-CSa) |
+[linkedin](https://www.linkedin.com/in/lucas-ciola-de-s%C3%A1-ba0426179/) |
+[email](mailto:lucas.cisa19@gmail.com)
+)</small>
 
 
 
