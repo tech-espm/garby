@@ -13,7 +13,9 @@ Prof. Humberto Sandmann, PhD. (head)
 
 Gabriel Zsigmond
 <small>(
-[github](https://github.com/gzsig)
+[github](https://github.com/gzsig) |
+[linkedin](https://www.linkedin.com/in/gzsig/) |
+[email](mailto:gaazsig@gmail.com)
 )</small>
 
 Lucas Ciola de Sá
