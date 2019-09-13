@@ -25,5 +25,11 @@ Lucas Ciola de Sá
 [email](mailto:lucas.cisa19@gmail.com)
 )</small>
 
+Zelia Santos Porto
+<small>(
+[github](https://github.com/zeliasporto) |
+[linkedin](https://www.linkedin.com/in/zelia-porto-964656181/) |
+[email](mailto:zeliasporto@gmail.com)
+)</small>
 
 
