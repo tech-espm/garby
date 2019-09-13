@@ -8,7 +8,8 @@ This group has the purpose of developing a demonstration using artificial intell
 
 Prof. Humberto Sandmann, PhD. (head)
 <small>(
-[github](https://hsandmann.github.io/)
+[github](https://hsandmann.github.io/) |
+[email](mailto:humberto.sandmann@espm.br)
 )</small>
 
 Gabriel Zsigmond
