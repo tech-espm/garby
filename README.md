@@ -39,6 +39,13 @@ Cesar Moura Leite Westphal
 [email](mailto:cesarmlwestphal@gmail.com)
 )</small>
 
+Heitor Leão Nader
+<small>(
+[github](https://github.com/heitorln) |
+[linkedin](https://www.linkedin.com/in/heitor-le%C3%A3o-nader-210897149/) |
+[email](mailto:heitor.nader@gmail.com)
+)</small>
+
 ### License
 
 
