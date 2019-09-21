@@ -1,12 +1,9 @@
 import tensorflow as tf
 
-
-
 mnist = tf.keras.datasets.mnist
 
 (x_train, y_train), (x_test, y_test) = mnist.load_data()
 x_train, x_test = x_train / 255.0, x_test / 255.0
-
 
 model = tf.keras.models.Sequential([
   tf.keras.layers.Flatten(input_shape=(28, 28)),
@@ -20,6 +17,8 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])
 
 
-model.fit(x_train, y_train, epochs=2)
+model.fit(x_train, y_train, epochs=10)
 model.evaluate(x_test, y_test)
-print(model.losses)
+# To visualize the model
+model.summary()
+# tf.keras.utils.vis_utils.plot_model(model, to_file='model_plot.png', show_shapes=True, show_layer_names=True)
