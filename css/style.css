@@ -1,3 +1,8 @@
+::-webkit-scrollbar {
+  width: 0px;  
+  background: transparent;
+}
+
 body {
   margin: 0;
   min-width: 100vw;
@@ -8,6 +13,7 @@ body {
 h1 {
   text-align: center;
   font-size: 54px;
+  color: #fff;
 }
 
 #camera {
@@ -24,8 +30,9 @@ h1 {
 .info {
   height: 50vh;
   width: 20vw;
-  border: solid 1px #fff;
+  /* border: solid 1px #fff; */
   font-size: 36px;
+  color: #fff;
   text-align: center;
 }
 
@@ -33,6 +40,15 @@ h1 {
   height: 100%;
   width: 100%;
   background-image: url("../img/recycle-bin.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.type-icon {
+  height: 100%;
+  width: 100%;
+  background-image: url("../img/paper.svg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
