@@ -1,32 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Document</title>
-  <link rel="stylesheet" href="./css/style.css">
+  <title>Soul 2019</title>
+  <!-- link to CSS -->
+  <link rel="stylesheet" href="./css/camera.css">
+  <!-- link to google fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
 </head>
-
 <body>
-  <h1>Soul ESPM 2019</h1>
-  <section class="section-1">
-    <div id="trash-type" class="info">
-      <div class="title">Lixo</div>
-      <div class="trash-icon"></div>
-    </div>
-    <video autoplay id="camera"></video>
-    <div id="object" class="info">
-      <div class="title">Objeto</div>
-      <div class="type-icon"></div>
-    </div>
-
-  </section>
-
-
-
-  <script src="./js/index.js"></script>
+	<video id="preview" width="300" height="225"></video>
+	<div id="divOverlay"></div>
+	<canvas id="photo" width="300" height="225"></canvas>
+	<script src="./js/camera.js"></script>	
 </body>
 
 </html>
+
+
