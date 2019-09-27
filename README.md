@@ -58,6 +58,14 @@ Back-end: Lucas
 Arduino: Heitor
   - ideas so far: conveyor belt, spinning trash can.
 
+### Week Plans
+---
+
+10/04:
+  - Front: treat back-end reponse and 1st layout sketch
+  - Back: Kaggle model (84%) and websockets  
+  - Arduino: machine architecture and budget for materials
+  
 ### License
 ---
 
