@@ -48,6 +48,16 @@ Heitor Leão Nader
 [email](mailto:heitor.nader@gmail.com)
 )</small>
 
+### Sections
+---
+
+Front-end: Gabriel
+
+Back-end: Lucas
+
+Arduino: Heitor
+  - ideas so far: conveyor belt, spinning trash can.
+
 ### License
 ---
 
