@@ -55,6 +55,7 @@ Front-end: Gabriel
 
 Back-end: Lucas
   - ideas so far: Use Flask to setup communications between front and back end, and test the Kaggle model to manipulate it in order to achieve a higher acuracy
+  - The Neural Network from Kaggle that claimed a 84% acc was implemented, but the total accuracy achieved was 78%. The group will continue to work over that code to get that number higher
 
 Arduino: Heitor
   - ideas so far: conveyor belt, spinning trash can.
