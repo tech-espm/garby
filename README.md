@@ -1,4 +1,7 @@
-# Soul Tech-ESPM 2019 Group
+# Garby
+##### smart recycling
+
+![Alt text](tech.jpg?raw=true "Title")
 
 ### Purpose
 ---
@@ -48,6 +51,13 @@ Heitor Leão Nader
 [email](mailto:heitor.nader@gmail.com)
 )</small>
 
+Gabriel Zago
+<small>(
+[github](https://github.com/GabrielZagoSapucaia) |
+[linkedin](https://www.linkedin.com/in/gabriel-zago-sapucaia-99b654181/) |
+[email](mailto:gabrielzsapucaia@hotmail.com)
+)</small>
+
 ### Sections
 ---
 
@@ -67,7 +77,7 @@ Heitor Leão Nader
  - Lucas
 
 
-### Arduino: 
+#### Infrastructure: 
 ---
   - ideas so far: conveyor belt, spinning trash can.
   
