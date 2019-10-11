@@ -1,4 +1,7 @@
-# Soul Tech-ESPM 2019 Group
+# Garby
+##### smart recycling
+
+![Alt text](tech.jpg?raw=true "Title")
 
 ### Purpose
 ---
@@ -48,17 +51,38 @@ Heitor Leão Nader
 [email](mailto:heitor.nader@gmail.com)
 )</small>
 
+Gabriel Zago
+<small>(
+[github](https://github.com/GabrielZagoSapucaia) |
+[linkedin](https://www.linkedin.com/in/gabriel-zago-sapucaia-99b654181/) |
+[email](mailto:gabrielzsapucaia@hotmail.com)
+)</small>
+
 ### Sections
 ---
 
-Front-end: Gabriel
+#### Front-end: 
+---
+###### Responsável 
+  - Gabriel
 
-Back-end: Lucas
+
+
+#### Back-end: 
+---
   - ideas so far: Use Flask to setup communications between front and back end, and test the Kaggle model to manipulate it in order to achieve a higher acuracy
   - The Neural Network from Kaggle that claimed a 84% acc was implemented, but the total accuracy achieved was 78%. The group will continue to work over that code to get that number higher
 
-Arduino: Heitor
+###### Responsável 
+ - Lucas
+
+
+#### Infrastructure: 
+---
   - ideas so far: conveyor belt, spinning trash can.
+  
+ ###### Responsável 
+Heitor
 
 ### Week Plans
 ---
