@@ -1,5 +1,6 @@
 from flask import Flask, request
 from prediction import predict
+import json
 
 app = Flask(__name__)
 
@@ -10,4 +11,12 @@ def hello():
 
 @app.route('/predict', methods=['POST'])
 def predictResponse():
-    return predict(request.json)
+    jason = json.loads(request.json)
+    basers = jason['base']
+    return predict(basers)
+
+
+
+
+
+# {"base": "base64"}
