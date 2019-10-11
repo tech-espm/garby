@@ -6,7 +6,7 @@
 ### Purpose
 ---
 
-This group has the purpose of developing a demonstration using artificial intelligence - AI - for Soul ESPM 2019.
+This group has the purpose of developing a automated garbage selection system using AI, applying it throughout ESPM SP during ESPM Soul 2019 to gather 
 
 ### Members
 ---
@@ -63,6 +63,8 @@ Gabriel Zago
 
 #### Front-end: 
 ---
+  EN - The Front-end team was responsible for developing the website that wouuld take the picture of the garbage placed in front of the camera, communicate with the API to get a prediction on the image taken and treat this response for the user by pointing to the right trashcan and changin the background color.  
+  PT - O time de Front-end estava responsável pela construção do website que tiraria as fotos dos itens a serem descartados, se comunicaria com o Back-end para que a predição seja retornada, tratando essa resposta e a exibindo para o usuário através de uma seta que indicará o lixo certo no qual o item deve ser colocado.
 ###### Responsável 
   - Gabriel
 
@@ -70,8 +72,8 @@ Gabriel Zago
 
 #### Back-end: 
 ---
-  - ideas so far: Use Flask to setup communications between front and back end, and test the Kaggle model to manipulate it in order to achieve a higher acuracy
-  - The Neural Network from Kaggle that claimed a 84% acc was implemented, but the total accuracy achieved was 78%. The group will continue to work over that code to get that number higher
+ EN - The Back-end team was responsible for building the API to return the predictions of the photos taken by the Front-end, along with the Neural Networks to make such predictions.  
+ PT - O time de Back-end estava responsável por montar API que retornaria a predição feita pela inteligência artificial das fotos enviadas pelo Front-end. Outra tarefa dessa equipe era construir a rede neural para que as predições possam ser feitas.
 
 ###### Responsável 
  - Lucas
@@ -79,7 +81,8 @@ Gabriel Zago
 
 #### Infrastructure: 
 ---
-  - ideas so far: conveyor belt, spinning trash can.
+  EN - The infrastructure team was responsible for designing and building the machinery that would take in the response from the API through the Front-end and direct what trash can the placed item should go to.   
+  PT - O time de infraestrutura estava responsável pelo design e construção do maquinário que receberia a resposta da API através do Front-end e direcionar o item avaliado na lata de lixo correta.
   
  ###### Responsável 
 Heitor
