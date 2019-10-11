@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, request
 from prediction import predict
 
 app = Flask(__name__)
@@ -10,4 +10,4 @@ def hello():
 
 @app.route('/predict', methods=['POST'])
 def predictResponse():
-    return predict()
+    return predict(request.json)
