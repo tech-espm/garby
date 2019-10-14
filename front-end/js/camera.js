@@ -61,6 +61,8 @@ function downloadPNG() {
   //Comprime a foto em PNG
   var data = photo.toDataURL("image/png");
   //Faz o download da foto
+  console.log(data);
+  
   downloadPhoto(data, "Foto.png");
   //
   //*** A foto terá o tamanho do canvas, portanto, terá 300px de largura...
