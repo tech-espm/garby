@@ -1,5 +1,5 @@
 # Garby
-##### smart recycling
+_smart recycling_
 
 ![Alt text](tech.jpg?raw=true "Title")
 
@@ -58,8 +58,7 @@ Gabriel Zago
 [email](mailto:gabrielzsapucaia@hotmail.com)
 )</small>
 
-### Sections
----
+## Sections
 
 #### Front-end: 
 ---
