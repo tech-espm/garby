@@ -14,13 +14,8 @@ def predictResponse():
     # jason = request.get_json()
     # basers = jason['base']
     # print(predict(basers))
-    print('a')
     resp = random.randint(0, 5)
-    print('b')
     resp = jsonify(materialType = resp)
-    print('c')
-    print(resp)
-    print('d')
     return resp
 
 
