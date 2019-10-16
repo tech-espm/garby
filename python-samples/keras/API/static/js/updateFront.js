@@ -51,7 +51,7 @@ function updateWindow(type) {
     overlay.classList.add("green");
   } else if (type === 2) {
     overlay.classList.remove(...overlay.classList);
-    title.setAttribute("style", "color: #000");
+    title.setAttribute("style", "color: #fff");
     title.innerHTML = guessedType;
     body.setAttribute("style", "background-color: #f00");
     overlay.classList.add("red");
