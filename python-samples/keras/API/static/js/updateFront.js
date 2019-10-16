@@ -23,6 +23,7 @@ function getData() {
 }
 
 function updateWindow(type) {
+  type = parseInt(type)
   let title = document.getElementById("item-type");
   let overlay = document.getElementById("divOverlay");
   let body = document.getElementsByTagName("body")[0];

@@ -11,13 +11,15 @@ def hello():
 
 @app.route('/predict', methods=['POST'])
 def predictResponse():
-    # jason = request.get_json()
-    # basers = jason['base']
-    # print(predict(basers))
-    resp = random.randint(0, 5)
-    resp = jsonify(materialType = resp)
-    return resp
-
+    jason = request.get_json()
+    basers = jason['base']
+    # resp = random.randint(0, 5)
+    # resp = jsonify(materialType = resp)
+    # return resp
+    x = predict(basers)
+    print(x)
+    print(type(x))
+    return jsonify(materialType=x)
 
 
 
