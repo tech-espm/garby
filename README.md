@@ -74,8 +74,9 @@ Gabriel Zago
  EN - The Back-end team was responsible for building the API to return the predictions of the photos taken by the Front-end, along with the Neural Networks to make such predictions.  
  PT - O time de Back-end estava responsável por montar API que retornaria a predição feita pela inteligência artificial das fotos enviadas pelo Front-end. Outra tarefa dessa equipe era construir a rede neural para que as predições possam ser feitas.
 
-###### Responsável 
+###### Responsáveis
  - Lucas
+ - Cesar
 
 
 #### Infrastructure: 
@@ -84,7 +85,7 @@ Gabriel Zago
   PT - O time de infraestrutura estava responsável pelo design e construção do maquinário que receberia a resposta da API através do Front-end e direcionar o item avaliado na lata de lixo correta.
   
  ###### Responsável 
-Heitor
+  - Heitor
 
 ### Week Plans
 ---
