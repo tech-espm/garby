@@ -29,10 +29,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: -15vh 0 0 0;
 }
 
 #divOverlay{
-  height:calc(100% + 38px);
+  height:100%;
 }
 
 .red {

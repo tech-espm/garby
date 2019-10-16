@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,13 +10,16 @@
   <!-- link to google fonts -->
   <link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
 </head>
+
 <body>
-  <div id="item-type"></div>
   <video id="preview" width="300" height="225"></video>
-	<div id="divOverlay"></div>
-	<canvas id="photo" width="300" height="225"></canvas>
-	<script src="./js/camera.js"></script>	
-  <button onclick="getData()" >POST</button>
+  <div id="divOverlay">
+    <div id="item-type"></div>
+  </div>
+  <canvas id="photo" width="300" height="225"></canvas>
+  <script src="./js/camera.js"></script>
+  <script src="./js/updateFront.js"></script>
+  <button onclick="getData()">POST</button>
 </body>
 
 </html>
