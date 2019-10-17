@@ -1,4 +1,5 @@
 function getData() {
+  takePhoto();
   let base64 = photo.toDataURL("image/png").split(",")[1];
   let data = { base: base64 };
   let done = false;
@@ -23,7 +24,7 @@ function getData() {
 }
 
 function updateWindow(type) {
-  type = parseInt(type)
+  type = parseInt(type);
   let title = document.getElementById("item-type");
   let overlay = document.getElementById("divOverlay");
   let body = document.getElementsByTagName("body")[0];
