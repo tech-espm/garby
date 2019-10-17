@@ -62,7 +62,8 @@ PT -
   
   ### Contributors
 ---
-
+<img src="team/humberto.png" alt="photo"
+	title="Humberto Sandmann" width="150" height="150" />
 Prof. Humberto Sandmann, PhD. (head)
 <small>(
 [email](mailto:humberto.sandmann@espm.br)
@@ -100,6 +101,8 @@ Cesar Moura Leite Westphal
 [email](mailto:cesarmlwestphal@gmail.com)
 )</small>
 
+<img src="team/heitor.png" alt="photo"
+	title="Heitor Leão Nader" width="150" height="150" />
 Heitor Leão Nader
 <small>(
 [github](https://github.com/heitorln) |
