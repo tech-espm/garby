@@ -1,7 +1,7 @@
 # Garby
 _smart recycling_
 
-![Alt text](tech.jpg?raw=true "Title")
+![Alt text](logo-techPNG.png?raw=true "Title")
 
 
 ### Purpose
