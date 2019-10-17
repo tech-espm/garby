@@ -3,60 +3,11 @@ _smart recycling_
 
 ![Alt text](tech.jpg?raw=true "Title")
 
+
 ### Purpose
 ---
 
 This group has the purpose of developing a automated garbage selection system using AI, applying it throughout ESPM SP during ESPM Soul 2019 to gather 
-
-### Members
----
-
-Prof. Humberto Sandmann, PhD. (head)
-<small>(
-[email](mailto:humberto.sandmann@espm.br)
-)</small>
-
-Gabriel Zsigmond
-<small>(
-[github](https://github.com/gzsig) |
-[linkedin](https://www.linkedin.com/in/gzsig/) |
-[email](mailto:gaazsig@gmail.com)
-)</small>
-
-Lucas Ciola de Sá
-<small>(
-[github](https://github.com/Lucas-CSa) |
-[linkedin](https://www.linkedin.com/in/lucas-ciola-de-s%C3%A1-ba0426179/) |
-[email](mailto:lucas.cisa19@gmail.com)
-)</small>
-
-Zelia Santos Porto
-<small>(
-[github](https://github.com/zeliasporto) |
-[linkedin](https://www.linkedin.com/in/zelia-porto-964656181/) |
-[email](mailto:zeliasporto@gmail.com)
-)</small>
-
-Cesar Moura Leite Westphal
-<small>(
-[github](https://github.com/Cesar-mlw) |
-[linkedin](https://www.linkedin.com/in/cesar-moura-leite-westphal-222b57138/) |
-[email](mailto:cesarmlwestphal@gmail.com)
-)</small>
-
-Heitor Leão Nader
-<small>(
-[github](https://github.com/heitorln) |
-[linkedin](https://www.linkedin.com/in/heitor-le%C3%A3o-nader-210897149/) |
-[email](mailto:heitor.nader@gmail.com)
-)</small>
-
-Gabriel Zago
-<small>(
-[github](https://github.com/GabrielZagoSapucaia) |
-[linkedin](https://www.linkedin.com/in/gabriel-zago-sapucaia-99b654181/) |
-[email](mailto:gabrielzsapucaia@hotmail.com)
-)</small>
 
 ## Sections
 
@@ -108,6 +59,62 @@ PT -
   - Front: treat back-end reponse and 1st layout sketch
   - Back: Kaggle model (84%) and websockets  
   - Arduino: machine architecture and budget for materials
+  
+  ### Contributors
+---
+
+Prof. Humberto Sandmann, PhD. (head)
+<small>(
+[email](mailto:humberto.sandmann@espm.br)
+)</small>
+
+<img src="team/gabe.png" alt="photo"
+	title="Gabriel Zsigmond" width="150" height="150" />
+Gabriel Zsigmond
+<small>(
+[github](https://github.com/gzsig) |
+[linkedin](https://www.linkedin.com/in/gzsig/) |
+[email](mailto:gaazsig@gmail.com)
+)</small>
+
+Lucas Ciola de Sá
+<small>(
+[github](https://github.com/Lucas-CSa) |
+[linkedin](https://www.linkedin.com/in/lucas-ciola-de-s%C3%A1-ba0426179/) |
+[email](mailto:lucas.cisa19@gmail.com)
+)</small>
+
+Zelia Santos Porto
+<small>(
+[github](https://github.com/zeliasporto) |
+[linkedin](https://www.linkedin.com/in/zelia-porto-964656181/) |
+[email](mailto:zeliasporto@gmail.com)
+)</small>
+
+<img src="team/cesar.png" alt="photo"
+	title="Cesar Westphal" width="150" height="150" />
+Cesar Moura Leite Westphal
+<small>(
+[github](https://github.com/Cesar-mlw) |
+[linkedin](https://www.linkedin.com/in/cesar-moura-leite-westphal-222b57138/) |
+[email](mailto:cesarmlwestphal@gmail.com)
+)</small>
+
+Heitor Leão Nader
+<small>(
+[github](https://github.com/heitorln) |
+[linkedin](https://www.linkedin.com/in/heitor-le%C3%A3o-nader-210897149/) |
+[email](mailto:heitor.nader@gmail.com)
+)</small>
+
+<img src="team/zago.jpg" alt="photo"
+	title="Gabriel Zago" width="150" height="150" />
+Gabriel Zago
+<small>(
+[github](https://github.com/GabrielZagoSapucaia) |
+[linkedin](https://www.linkedin.com/in/gabriel-zago-sapucaia-99b654181/) |
+[email](mailto:gabrielzsapucaia@hotmail.com)
+)</small>
   
 ### License
 ---
