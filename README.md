@@ -78,6 +78,8 @@ Gabriel Zsigmond
 [email](mailto:gaazsig@gmail.com)
 )</small>
 
+<img src="team/lucas.png" alt="photo"
+	title="Lucas Ciola de Sá" width="150" height="150" />
 Lucas Ciola de Sá
 <small>(
 [github](https://github.com/Lucas-CSa) |
