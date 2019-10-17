@@ -87,6 +87,8 @@ Lucas Ciola de Sá
 [email](mailto:lucas.cisa19@gmail.com)
 )</small>
 
+<img src="team/zelia.png" alt="photo"
+	title="Zelia Santos Porto" width="150" height="150" />
 Zelia Santos Porto
 <small>(
 [github](https://github.com/zeliasporto) |
