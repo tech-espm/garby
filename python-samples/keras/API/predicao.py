@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 def predict(baseString):
-    model = load_model('../trained_model.h5')
+    model = load_model('../trained_model_noCardboard.h5')
     model.compile(loss='categorical_crossentropy', optimizer = 'adam', metrics = ['acc'])
     img = load_img(convertIMG(baseString), target_size=(200, 200))
     img_array = np.expand_dims(img_to_array(img), axis=0)

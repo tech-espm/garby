@@ -1,3 +1,7 @@
+setInterval(()=>{
+  getData()
+}, 10000)
+
 function getData() {
   takePhoto();
   let base64 = photo.toDataURL("image/png").split(",")[1];
@@ -42,7 +46,7 @@ function updateWindow(type) {
   if (type === 0) {
     overlay.classList.remove(...overlay.classList);
     title.setAttribute("style", "color: #fff");
-    title.innerHTML = guessedType;
+    title.innerHTML = "Papel";
     body.setAttribute("style", "background-color: #00f");
     overlay.classList.add("blue");
   } else if (type === 1) {
@@ -55,8 +59,8 @@ function updateWindow(type) {
     overlay.classList.remove(...overlay.classList);
     title.setAttribute("style", "color: #fff");
     title.innerHTML = guessedType;
-    body.setAttribute("style", "background-color: #f00");
-    overlay.classList.add("red");
+    body.setAttribute("style", "background-color: #ff0");
+    overlay.classList.add("yellow");
   } else if (type === 3) {
     overlay.classList.remove(...overlay.classList);
     title.setAttribute("style", "color: #fff");
@@ -67,8 +71,8 @@ function updateWindow(type) {
     overlay.classList.remove(...overlay.classList);
     title.setAttribute("style", "color: #000");
     title.innerHTML = guessedType;
-    body.setAttribute("style", "background-color: #ff0");
-    overlay.classList.add("yellow");
+    body.setAttribute("style", "background-color: #f00");
+    overlay.classList.add("red");
   } else if (type === 5) {
     overlay.classList.remove(...overlay.classList);
     title.setAttribute("style", "color: #fff");
