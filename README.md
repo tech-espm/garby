@@ -155,5 +155,5 @@ SOFTWARE.
 ### Agradecimentos
 ---
  - Equipe Técnica ESPM
- - Carlos Rafael Gimenes Neves [GitHub] | (https://github.com/carlosrafaelgn)
+ - Carlos Rafael Gimenes Neves  | [GitHub](https://github.com/carlosrafaelgn)
  - Flavio Marques de Azevedo
