@@ -192,7 +192,13 @@ function turnCameraOff() {
 function takePhoto() {
   //Desenha o vídeo atualmente exibido no canvas, espelhado horizontalmente quando necessário
   if (mirror) photoContext.setTransform(-1, 0, 0, 1, photo.width, 0);
-  photoContext.drawImage(preview, 0, 0, photo.width, photo.height);
+  let videoWidth = preview.videoWidth;
+  let videoHeight = preview.videoHeight;
+  var xs = (videoWidth * 0.2) | 0;
+  var ys = (videoHeight * 0.2) | 0;
+  var ws = videoWidth - xs - xs;
+  var hs = videoHeight - ys - ys;
+  photoContext.drawImage(preview, xs, ys, ws, hs, 0, 0, photo.width, photo.height);
   if (mirror) photoContext.setTransform(1, 0, 0, 1, 0, 0);
 }
 

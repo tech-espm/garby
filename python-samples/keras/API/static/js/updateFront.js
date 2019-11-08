@@ -33,47 +33,40 @@ function updateWindow(type) {
   let overlay = document.getElementById("divOverlay");
   let body = document.getElementsByTagName("body")[0];
   let materials = {
-    Papelão: 0,
-    Vidro: 1,
-    Metal: 2,
-    Papel: 3,
-    Plastico: 4,
-    Lixo: 5
+    Vidro: 0,
+    Metal: 1,
+    Papel: 2,
+    Plastico: 3,
+    Lixo: 4
   };
   console.log("type:");
   let guessedType = getKeyByValue(materials, type);
 
-  if (type === 0) {
-    overlay.classList.remove(...overlay.classList);
-    title.setAttribute("style", "color: #fff");
-    title.innerHTML = "Papel";
-    body.setAttribute("style", "background-color: #00f");
-    overlay.classList.add("blue");
-  } else if (type === 1) {
+if (type === 0) {
     overlay.classList.remove(...overlay.classList);
     title.setAttribute("style", "color: #000");
     title.innerHTML = guessedType;
     body.setAttribute("style", "background-color: #0f0");
     overlay.classList.add("green");
-  } else if (type === 2) {
+  } else if (type === 1) {
     overlay.classList.remove(...overlay.classList);
     title.setAttribute("style", "color: #fff");
     title.innerHTML = guessedType;
     body.setAttribute("style", "background-color: #ff0");
     overlay.classList.add("yellow");
-  } else if (type === 3) {
+  } else if (type === 2) {
     overlay.classList.remove(...overlay.classList);
     title.setAttribute("style", "color: #fff");
     title.innerHTML = guessedType;
     body.setAttribute("style", "background-color: #00f");
     overlay.classList.add("blue");
-  } else if (type === 4) {
+  } else if (type === 3) {
     overlay.classList.remove(...overlay.classList);
     title.setAttribute("style", "color: #000");
     title.innerHTML = guessedType;
     body.setAttribute("style", "background-color: #f00");
     overlay.classList.add("red");
-  } else if (type === 5) {
+  } else if (type === 4) {
     overlay.classList.remove(...overlay.classList);
     title.setAttribute("style", "color: #fff");
     title.innerHTML = guessedType;
