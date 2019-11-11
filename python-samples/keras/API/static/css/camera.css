@@ -37,15 +37,33 @@ body {
   height:100%;
 }
 
-#soul-logo {
-  width: 90px;
-  margin: 73vh 60vw;
+#garby-logo {
+  width: 300px;
+  position: absolute;
+  left: 2vw;
+  top: 7vh;
+  margin-top: 41px;
 }
 
-.soul-logo-wrapper {
+#soul-logo {
+  width: 130px;
+  position: absolute;
+  right: 31vw;
+  bottom: 18vh;
+}
+
+#qrcode {
+  width: 200px;
+  position: absolute;
+  right: 2vw;
+  top: 7vh;
+}
+
+.soul-wrapper {
   width: 100vw;
   height: 100vh;
   margin: -14vh -30vw;
+  position: relative; 
 }
 
 .red {
