@@ -1,8 +1,15 @@
 # Garby
 _smart recycling_
 
+![Alt text](garby_logo.png?raw=true "Title")
 ![Alt text](logo-techPNG.png?raw=true "Title")
 
+### O que é a Garby?
+---
+
+A Garby é uma inteligência artificial criada pelos alunos de TECH da ESPM, que visa tentar reconhecer de que material seu lixo é composto, para que assim seu descarte seja feito corretamente!
+
+A Garby está em sua **primeira versão**, sendo testada pela primeira vez aqui, no **ESPM SOUL**!
 
 ### Purpose
 ---
@@ -43,8 +50,8 @@ This group has the purpose of developing a automated garbage selection system us
   
 #### Data Set: 
 ---
-EN -
-PT -
+EN - The Data Set team was responsible for finding images of potential recyclable waste to feed the artificial intelligence, so that it increasingly she learns better to identify different types of recyclable waste.
+PT - O time de Data Set foi resposável por encontrar imagens de potenciais lixos recicláveis para alimentar a inteligência artificial,  a fim de que cada vez mais ela aprenda melhor a identificar os diferentes tipos de lixo reciclável.
   
 ###### Responsáveis
   - Gabriel Zago
