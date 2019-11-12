@@ -1,8 +1,9 @@
 # Garby
 _smart recycling_
-
-![Alt text](python-samples/keras/API/static/img/garby_logo.png)
-![Alt text](logo-techPNG.png?raw=true "Title")
+<p align="center">
+	<img src="python-samples/keras/API/static/img/garby_logo.png" width="400" align="center"/>
+	<img src="logo-techPNG.png?raw=true" width="800" align="center" />
+</p>
 
 ### O que é a Garby?
 ---
@@ -165,3 +166,4 @@ SOFTWARE.
  - Carlos Rafael Gimenes Neves  | [LinkedIn](https://www.linkedin.com/in/carlosrafaelgn/) | [GitHub](https://github.com/carlosrafaelgn)
  - Flavio Marques de Azevedo  | [LinkedIn](https://www.linkedin.com/in/flaviomarquesazevedo/)
  - Patricia Dranoff  | [LinkedIn](https://www.linkedin.com/in/pdranoff/)
+ - Antonio Henrique Selvatici Pinto
