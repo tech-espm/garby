@@ -11,14 +11,16 @@
   <link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
 </head>
 
-<body>
+<body id="body" class="">
   <video id="preview" width="300" height="225"></video>
   <div id="divOverlay">
     <h1 id="item-type"></h1>
     <div class="soul-wrapper">
-      <img src="./img/qr1.png" alt="" id="qrcode">
+      <img src="./img/qr1.png" alt="" id="qrcode" class="on-loading">
       <img src="./img/garby_logo.png" alt="" id="garby-logo">
       <img src="./img/soul_logo.png" alt="event-logo" id="soul-logo">
+      <div id="instructions">Mostre o seu LIXO aqui</div>
+      <div id="timer"></div>
     </div>
   </div>
   <canvas id="photo" width="300" height="225"></canvas>

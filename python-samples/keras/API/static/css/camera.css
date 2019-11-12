@@ -1,5 +1,5 @@
 ::-webkit-scrollbar {
-  width: 0px;  
+  width: 0px;
   background: transparent;
 }
 
@@ -15,7 +15,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
-  font-family: 'Varela Round', sans-serif;
+  font-family: "Varela Round", sans-serif;
   overflow: hidden;
 }
 
@@ -33,16 +33,15 @@ body {
   margin: -15vh 0 0 0;
 }
 
-#divOverlay{
-  height:100%;
+#divOverlay {
+  height: 100%;
 }
 
 #garby-logo {
   width: 300px;
   position: absolute;
   left: 2vw;
-  top: 7vh;
-  margin-top: 41px;
+  top: calc(50vh - 50px);
 }
 
 #soul-logo {
@@ -56,14 +55,40 @@ body {
   width: 200px;
   position: absolute;
   right: 2vw;
-  top: 7vh;
+  top: calc(50vh - 104px);
+}
+
+#instructions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30vw;
+  color: #fff;
+  font-size: 25px;
+  position: absolute;
+  right: 35vw;
+  bottom: 10vh;
+}
+
+#timer {
+  position: absolute;
+  right: calc(50vw - 25px);
+  bottom: 2vh;
+  color: #fff;
+  font-size: 50px;
+}
+
+.on-loading {
+  background-color: #add8e6;
+  padding: 4px;
+  border-radius: 4px;
 }
 
 .soul-wrapper {
   width: 100vw;
   height: 100vh;
   margin: -14vh -30vw;
-  position: relative; 
+  position: relative;
 }
 
 .red {
@@ -98,7 +123,7 @@ body {
   /* height: 100%; */
   box-sizing: border-box;
   border-style: solid;
-  border-color: rgba( 0, 255, 0, 0.5);
+  border-color: rgba(0, 255, 0, 0.5);
   border-width: 20vh 30vw;
 }
 
@@ -124,4 +149,16 @@ body {
   border-style: solid;
   border-color: rgba(0, 0, 0, 0.5);
   border-width: 20vh 30vw;
+}
+
+.photo {
+  opacity:0;
+  background-color:#fff;
+  position:fixed;
+  width:100%;
+  height:100%;
+  top:0px;
+  left:0px;
+  z-index:1000;
+  transition: all 0.4s ;
 }
