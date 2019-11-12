@@ -1,7 +1,7 @@
 # Garby
 _smart recycling_
 
-![Alt text](garby_logo.png?raw=true "Title")
+![Alt text](python-samples/keras/API/static/img/garby_logo.png)
 ![Alt text](logo-techPNG.png?raw=true "Title")
 
 ### O que é a Garby?
